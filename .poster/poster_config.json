@@ -1,0 +1,9 @@
+{
+    "name": "Poster",
+    "version": "0.0.1-a",
+    "package": "xyz.flystudiokey",
+    "pip": "22.2.2",
+    "author": "Xiao_XiangGua",
+    "poster_host": "",
+    "start_config": []
+}

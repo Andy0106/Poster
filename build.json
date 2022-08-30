@@ -1,0 +1,10 @@
+{
+    "name": "examplePoster",
+    "version": "0.0.1-a",
+    "package": "com.example",
+    "main": "examplePoster.py",
+    "init": "__init__.py",
+    "author": "",
+    "libraries": [],
+    "start_config": []
+}
